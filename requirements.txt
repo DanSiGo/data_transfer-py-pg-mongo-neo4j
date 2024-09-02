@@ -1,0 +1,7 @@
+dnspython==2.6.1
+neo4j==5.24.0
+psycopg==3.2.1
+psycopg2-binary==2.9.9
+pymongo==4.8.0
+pytz==2024.1
+typing_extensions==4.12.2
